@@ -1,2 +1,3 @@
-# lab-estudios-hispanicos
-Laboratorio Mayor de Estudios Hispánicos
+# Hispanologia
+
+> Laboratorium Maius Studiorum Hispanicorum: ...
